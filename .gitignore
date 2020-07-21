@@ -1,4 +1,4 @@
 setup.sh
 migrations
-_pycache_
+__pycache__
 Postman tests
